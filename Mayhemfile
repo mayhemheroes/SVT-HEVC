@@ -1,5 +1,5 @@
 project: rnshah9/svt-hevc
-target: svt-hevc
+target: svthevcencapp
 
 cmds:
   - cmd: /repo/Bin/Release/SvtHevcEncApp -i @@ -w 100 -h 100
