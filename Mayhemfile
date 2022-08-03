@@ -2,4 +2,4 @@ project: svt-hevc
 target: svthevcencapp
 
 cmds:
-  - cmd: /repo/Bin/Release/SvtHevcEncApp -i @@ -w 100 -h 100
+  - cmd: /install/bin/SvtHevcEncApp -i @@ -w 100 -h 100
